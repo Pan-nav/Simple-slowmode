@@ -1,0 +1,8 @@
+name: SimpleSlowmode
+version: '${project.version}'
+main: com.panav.slowmode.Slowmode
+api-version: 1.19
+authors: [ Panav ]
+commands:
+  slowmode:
+  botverify:
